@@ -32,7 +32,8 @@ The project uses a modified version of the Instacart 2017 Kaggle dataset. It con
   - order_products.csv - Mapping between orders and products.
   - aisles.csv - Aisle categories. 
   - departments.csv - Department categories.
-  📌 Note: The dataset has been intentionally modified to include missing and duplicate values for the purpose of testing data cleaning skills.
+  
+📌 Note: The dataset has been intentionally modified to include missing and duplicate values for the purpose of testing data cleaning skills.
 
 ## 🛠 Installation & Setup
 To run this project locally: 

@@ -38,10 +38,9 @@ The project uses a modified version of the Instacart 2017 Kaggle dataset. It con
 ## 🛠 Installation & Setup
 To run this project locally: 
   1. Clone the repository:
-     
-     `git clone https://github.com/your-username/instacart-eda.git`
-     
-      `cd instacart-eda`
+     ```bash
+     git clone https://github.com/your-username/instacart-eda.git
+      cd instacart-eda
      
   3. Install required packages:
      

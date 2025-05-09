@@ -37,12 +37,12 @@ The project uses a modified version of the Instacart 2017 Kaggle dataset. It con
 ## 🛠 Installation & Setup
 To run this project locally: 
   1. Clone the repository:
-     git clone https://github.com/your-username/instacart-eda.git
-     cd instacart-eda
+     `git clone https://github.com/your-username/instacart-eda.git`
+     `cd instacart-eda`
   2. Install required packages:
-     pip install pandas matplotlib seaborn juypter
+     `pip install pandas matplotlib seaborn juypter`
   3. Start the Jupyter notebook:
-     jupyter notebook
+     `jupyter notebook`
 
 ## ▶️ How to Use
   1. Open the notebook and run the cells in order.
@@ -80,7 +80,7 @@ To run this project locally:
   - Notable Exception:
 Among the top 20 items customers add to their carts first, Sodas stand out as a popular non-organic item, suggesting a niche demand for sweetened beverages.
 
-###📈 Visualizations (Highlights)
+### 📈 Visualizations (Highlights)
   - Hourly Order Distribution
   A bar chart showing order volume by hour reveals a peak from 7 AM to 8 PM, with a gradual decline thereafter.
   

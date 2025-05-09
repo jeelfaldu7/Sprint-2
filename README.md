@@ -40,12 +40,13 @@ To run this project locally:
   1. Clone the repository:
      
      `git clone https://github.com/your-username/instacart-eda.git`
+     
       `cd instacart-eda`
      
-  2. Install required packages:
+  3. Install required packages:
      
        `pip install pandas matplotlib seaborn juypter`
-  3. Start the Jupyter notebook:
+  4. Start the Jupyter notebook:
      
        `jupyter notebook`
 

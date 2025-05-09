@@ -8,7 +8,7 @@ Welcome to the Instacart Exploratory Data Analysis (EDA) project! This project d
   - Installation & Setup
   - How to Use
   - Features
-  - Insights & Visualizations\
+  - Insights & Visualizations
   - Credits
   - License
 
@@ -40,14 +40,13 @@ To run this project locally:
   1. Clone the repository:
      ```bash
      git clone https://github.com/your-username/instacart-eda.git
-      cd instacart-eda
-     
-  3. Install required packages:
-     
-       `pip install pandas matplotlib seaborn juypter`
-  4. Start the Jupyter notebook:
-     
-       `jupyter notebook`
+     cd instacart-eda
+  2. Install required packages:
+     ```bash
+     pip install pandas matplotlib seaborn juypter
+  3. Start the Jupyter notebook:
+     ```bash
+     jupyter notebook
 
 ## ▶️ How to Use
   1. Open the notebook and run the cells in order.

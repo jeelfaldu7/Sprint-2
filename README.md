@@ -109,3 +109,6 @@ Special thanks to:
   - Instacart for the original dataset
   - Kaggle for hosting the competition
   - TripleTen instructors and peers for ongoing support and feedback
+
+## 🛡️ License
+This project is licensed under the MIT License.
